@@ -5,7 +5,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **HTML5** – Structuring the application
 * **CSS3** – Styling and responsive layout
@@ -13,7 +13,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## ✨ Features
+## Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -23,7 +23,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## 🛠️ Development Process
+## Development Process
 
 1. Designed the basic layout using HTML
 2. Styled the interface with CSS for clarity and responsiveness
@@ -37,7 +37,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 * DOM manipulation using JavaScript
 * Handling user input and events
@@ -47,7 +47,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add task editing functionality
 * Introduce task priorities or categories
@@ -57,7 +57,7 @@ This project demonstrates strong frontend fundamentals and clean UI-focused deve
 
 ---
 
-## 📌 Purpose of the Project
+## Purpose of the Project
 
 This project was created to strengthen frontend development skills by building an interactive and user-friendly task management application using core web technologies.
 
